@@ -1,0 +1,24 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.bg-blue{
+    background-color: rgb(196, 226, 255);
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1)
+}
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+.border-bottom-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+.y{
+    display: block;
+}
+.bp{
+    flex: 15 0 auto;
+}
+.cl {
+    border-radius: 99em;
+}
